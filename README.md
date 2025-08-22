@@ -28,7 +28,7 @@ The Android App code files are included in the "Android App" folder.
 
 * CSV can include multiple translations separated by commas for synonyms.
 * All the words and translations included in the provided "dictionary.csv" file is extracted from the resources of https://learning-korean.com/pdf/
-* The ndroid installable apk file is included as "app-debug-1.apk"
+* The Android installable apk file is included as "app-debug-1.apk"
 
 
 
